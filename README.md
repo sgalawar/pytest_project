@@ -1,7 +1,5 @@
 # Quotes API Test Project
 
-This project tests the functionality of a REST API for managing quotes. The API provides endpoints for resetting the state, retrieving quotes, adding new quotes, retrieving quotes by ID, and deleting quotes.
-
 # Prerequisites
 
 - Python 3.11.4 installed on your system. If not, you can download and install it from python.org.
